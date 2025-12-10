@@ -69,9 +69,11 @@
     <Compile Include="Assets\CC\CC_Exit.cs" />
     <Compile Include="Assets\CC\CC_HIDE_RENDER_ON_APP_RUN.cs" />
     <Compile Include="Assets\CC\CC_CANVAS_SETUP.cs" />
+    <Compile Include="Assets\PanelBillboardManager.cs" />
     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Fly around\Scripts\SmoothFollow2.cs" />
     <Compile Include="Assets\SpaceNavigator\Plugins\SpaceNavigatorMac.cs" />
     <Compile Include="Assets\CC\CC_HIDE_CAMERA_ON_APP_RUN.cs" />
+    <Compile Include="Assets\SlidePresentationController.cs" />
     <Compile Include="Assets\CC_Navigation\DPadFlyer.cs" />
     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Fly around\Scripts\FlyAround.cs" />
     <Compile Include="Assets\SpaceNavigator\Runtime samples\- Follow curve\Scripts\Torus.cs" />
